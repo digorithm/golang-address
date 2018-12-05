@@ -737,6 +737,7 @@ var SuiteTypeAbbreviations map[string]string = map[string]string{
 	"dept":       "dept",
 
 	"box": "box",
+	"lot": "lot",
 }
 
 var CardinalDirectionAbbreviations map[string]string = map[string]string{
